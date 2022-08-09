@@ -3,4 +3,9 @@
   <PropertyGroup>
     <ActiveDebugProfile>Docker</ActiveDebugProfile>
   </PropertyGroup>
+  <ItemGroup>
+    <TypeScriptCompile Update="src\app\app.component.ts">
+      <SubType>Code</SubType>
+    </TypeScriptCompile>
+  </ItemGroup>
 </Project>

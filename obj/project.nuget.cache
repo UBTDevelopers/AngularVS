@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ENpfXsZqXex7DATvuMfUuxenhGh1IyCvbJsW2xYSUUC0uoIj0vVi+D3ks/kprXrWEt8w+JcYIIZNqWV12jwApw==",
+  "dgSpecHash": "oOB9pk6XphfB6wqTo9zYen99DLMOGSoGyUckoSVq+Q1DhUaZ+LpckMMyBY91NOcNGz/zthgF421g868WfC+SJQ==",
   "success": true,
   "projectFilePath": "D:\\Practice\\Angular\\AngularVS\\AngularVS\\AngularVS\\AngularVS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\r.rajwani\\.nuget\\packages\\microsoft.typescript.msbuild\\4.7.4\\microsoft.typescript.msbuild.4.7.4.nupkg.sha512",
     "C:\\Users\\r.rajwani\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
   ],
   "logs": []

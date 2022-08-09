@@ -20,3 +20,9 @@ D:\Practice\Angular\AngularVS\AngularVS\AngularVS\obj\Debug\net6.0\refint\Angula
 D:\Practice\Angular\AngularVS\AngularVS\AngularVS\obj\Debug\net6.0\AngularVS.pdb
 D:\Practice\Angular\AngularVS\AngularVS\AngularVS\obj\Debug\net6.0\AngularVS.genruntimeconfig.cache
 D:\Practice\Angular\AngularVS\AngularVS\AngularVS\obj\Debug\net6.0\ref\AngularVS.dll
+D:\Practice\Angular\AngularVS\AngularVS\AngularVS\bin\Debug\net6.0\angular.json
+D:\Practice\Angular\AngularVS\AngularVS\AngularVS\bin\Debug\net6.0\package-lock.json
+D:\Practice\Angular\AngularVS\AngularVS\AngularVS\bin\Debug\net6.0\package.json
+D:\Practice\Angular\AngularVS\AngularVS\AngularVS\bin\Debug\net6.0\tsconfig.app.json
+D:\Practice\Angular\AngularVS\AngularVS\AngularVS\bin\Debug\net6.0\tsconfig.json
+D:\Practice\Angular\AngularVS\AngularVS\AngularVS\bin\Debug\net6.0\tsconfig.spec.json

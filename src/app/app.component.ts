@@ -2,9 +2,10 @@ import { Component } from '@angular/core';
 
 @Component({
   selector: 'app-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.css']
+  /*template: '<h1>Welcome Bhai</h1>'*/
+  templateUrl: './app.component.html'
 })
+
 export class AppComponent {
-  title = 'AngularVS';
+  name: string = "Raza";
 }
