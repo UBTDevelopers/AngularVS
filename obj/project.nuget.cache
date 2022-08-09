@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ENpfXsZqXex7DATvuMfUuxenhGh1IyCvbJsW2xYSUUC0uoIj0vVi+D3ks/kprXrWEt8w+JcYIIZNqWV12jwApw==",
+  "success": true,
+  "projectFilePath": "D:\\Practice\\Angular\\AngularVS\\AngularVS\\AngularVS\\AngularVS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\r.rajwani\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.14.0\\microsoft.visualstudio.azure.containers.tools.targets.1.14.0.nupkg.sha512"
+  ],
+  "logs": []
+}

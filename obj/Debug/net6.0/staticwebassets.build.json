@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "5c3DDGoKRVisIUTY1rNlfGhAX36fWBxZjgld2qX5ZZU=",
+  "Source": "AngularVS",
+  "BasePath": "_content/AngularVS",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "AngularVS\\wwwroot",
+      "Source": "AngularVS",
+      "ContentRoot": "D:\\Practice\\Angular\\AngularVS\\AngularVS\\AngularVS\\wwwroot\\",
+      "BasePath": "_content/AngularVS",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
